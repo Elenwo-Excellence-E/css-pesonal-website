@@ -47,13 +47,15 @@ p{
 
 .top-cloud {
   position: relative;
-  left:400px;
+  left:300px;
+  top: 100px;
 
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 100px;
+  
 
 }
 .profile{ width: 50%;
